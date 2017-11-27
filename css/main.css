@@ -1,0 +1,9 @@
+html {
+  font-family: "Unica One", sams-serif;
+}
+
+#narwahl-body {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1981.415px;
+  stroke-dashoffset: 1981.415px;
+}
