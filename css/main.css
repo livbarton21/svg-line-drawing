@@ -7,3 +7,69 @@ html {
   stroke-dasharray: 1981.415px;
   stroke-dashoffset: 1981.415px;
 }
+
+#narwahl-eye {
+  animation: fade 4s ease;
+  opacity: 0;
+}
+
+h1 {
+  animation: fade 4s ease;
+  top: 3em;
+  left: 1em;
+  width: 5em;
+  z-index: 100;
+  color: #fff;
+}
+
+#rainbow-violet {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1917.692px;
+  stroke-dashoffset: 1917.692px;
+}
+
+#rainbow-indigo {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1812.502px;
+  stroke-dashoffset: 1812.502px;
+}
+
+#rainbow-blue {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1705.479px;
+  stroke-dashoffset: 1705.479px;
+}
+
+#rainbow-green {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1596.043px;
+  stroke-dashoffset: 1596.043px;
+}
+
+#rainbow-yellow {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1483.352px;
+  stroke-dashoffset: 1483.352px;
+}
+
+#rainbow-orange {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1366.26px;
+  stroke-dashoffset: 1366.26px;
+}
+
+#rainbow-red {
+  animation: lines .8s linear forwards;
+  stroke-dasharray: 1243.5px;
+  stroke-dashoffset: 1243.5px;
+}
+
+@keyframes lines {
+
+
+}
+
+@keyframes fade {
+
+
+}
