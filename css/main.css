@@ -1,14 +1,14 @@
 html {
-  font-family: "Unica One", sams-serif;
+  font-family: "Unica One", sans-serif;
 }
 
-#narwahl-body {
+#narwhal-body {
   animation: lines .8s linear forwards;
   stroke-dasharray: 1981.415px;
   stroke-dashoffset: 1981.415px;
 }
 
-#narwahl-eye {
+#narwhal-eye {
   animation: fade 4s ease;
   opacity: 0;
 }
